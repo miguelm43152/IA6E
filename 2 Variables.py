@@ -1,3 +1,9 @@
+# Miguel Ángel Mendoza Hernández
+# Registro: 20110144
+# Inteligencia Artificial
+# Grupo 6E
+########################### CAPITULO 2: VARIABLES ###############################################################
+
 #1.-Escribe un mensaje en una variable que puedes llamar como quieras.
 saludo = "Hola, esta es una variable."
 #2.-Crea dos variables y almacena en ellas un número.
