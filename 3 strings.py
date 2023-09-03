@@ -1,4 +1,8 @@
-
+# Miguel Ángel Mendoza Hernández
+# Registro: 20110144
+# Inteligencia Artificial
+# Grupo 6E
+########################### CAPITULO 3: Strings  ###############################################################
 #5.-    Escribe dos variables con strings. Uno con comillas simples '' y otro con comillas dobles"".
 
 text1 = "Este es una forma de escribir un string."
