@@ -1,0 +1,17 @@
+# Miguel Ángel Mendoza Hernández
+# Registro: 20110144
+# Inteligencia Artificial
+# Grupo 6E
+########################### CAPITULO 5: metodos upper(), lower() y title() ###########################################
+
+#12.- Pon en mayúsculas la primera letra de cada palabra de este nombre utilizando uno de los métodos del capítulo:
+#"enrique barros fernández"
+nombre = "enrique barros fernández"
+print( nombre.title())
+#13- Deja esta frase totalmente en letras minúsculas utilizando uno de los métodos del capítulo:
+#"Esta Es Una Frase Para Ser Formateada."
+frase = "Esta Es Una Frase Para Ser Formateada."
+print( frase.lower() )
+#14.- Deja esta frase totalmente en letras mayúsculas:
+#"Esta Es Una Frase Para Ser Formateada."
+print(frase.upper())
