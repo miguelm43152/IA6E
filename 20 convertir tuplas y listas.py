@@ -1,3 +1,4 @@
+
 # Miguel Ángel Mendoza Hernández
 # Registro: 20110144
 # Inteligencia Artificial
@@ -16,6 +17,3 @@ colores = tuple(colores)
 print( "Ahora la convertimos a una tupla:",colores)
 
 print( "y sino la creen, mostramos el tipo de dato:",type(colores))
-
-
-#
