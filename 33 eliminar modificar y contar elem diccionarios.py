@@ -3,7 +3,7 @@
 # Inteligencia Artificial
 # Grupo: 6E
 ######## CAPITULO 33: Metodos con diccionarios en python################
-
+ 
 teclado1 = {
 	'Categoría': 'Teclados',
 	'Modelo': 'HyperX Alloy FPS Pro',
